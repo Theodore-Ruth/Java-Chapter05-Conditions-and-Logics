@@ -1,0 +1,12 @@
+1. The state of the program the second time zoop is invoked is: 
+main: bizz = 5 and buzz = 2
+zoop: fred = "breakfast " and bob = 4
+clink: fork = 4
+ping: strangStrung = "not "
+
+
+2. The output of the program is:
+
+just for
+any not more
+It's !

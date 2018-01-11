@@ -1,0 +1,7 @@
+The stack diagram would look like:
+main: 
+nLines: n = 4
+nLines: n = 3
+nLines: n = 2
+nLines: n = 1
+nlinesL n = 0
